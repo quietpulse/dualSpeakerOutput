@@ -1,4 +1,4 @@
-# Dual Speaker Enabler
+# Dual Speaker Enabler ~ A Magisk module for Poco C65 (MT6768)
 
 - Applies safe default limits (8 dB earpiece, 30 dB main speaker) on every boot  
 - Enables your earpiece as a second media speaker  
