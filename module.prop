@@ -1,0 +1,7 @@
+id=dual_speaker_enabler_for_gale
+name=Dual Speaker Enabler Module for Gale My Beloved
+version=1.0
+versionCode=1
+author=AquaKun ❄
+description=Auto‑enable bottom & earpiece speaker on boot so dule speaker mode on a 90$ phone.
+minMagiskVersion=19000
