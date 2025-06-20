@@ -7,7 +7,7 @@
 
 ## Installation
 
-1. Download `DualSpkrEnabler.zip`
+1. Download  ([dualSpeakerOutput.zip](https://github.com/quietpulse/dualSpeakerOutput/releases/download/v1/dualSpeakerOutput.zip))
 2. In Magisk Manager → Modules → Install from storage  
 3. Reboot
 4. Wait **20 s** for audio HAL startup 
