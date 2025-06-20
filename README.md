@@ -12,4 +12,7 @@
 3. Reboot
 4. Wait **20 s** for audio HAL startup 
 
+## known issue:
+1. Stops working after making a call.
+
 Enjoy your dual‑speaker setup!  
