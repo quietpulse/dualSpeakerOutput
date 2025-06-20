@@ -12,7 +12,6 @@
 3. Reboot
 4. Wait **20 s** for audio HAL startup 
 
-## known issue:
-1. Stops working after making a call.
+### "Generally, this module is safe to use. However, if anything happens to your phone—such as hardware damage—I will not be held responsible. Use it wisely."
 
 Enjoy your dual‑speaker setup!  
